@@ -1,0 +1,11 @@
+# Crear un blog con Jekyll en Ubuntu 16.04 WSL (Windows Subsystem for Linux) y publicarlo en Github Pages
+
+Revisar que Jekyll ya este [instalado]().
+
+    jekyll new justice_blog
+    cd justice_blog
+
+Solamente para la primera vez que se despliegue el servidor de desarrollo se agrega los comandos `bundle exec` al inicio.
+
+    bundle exec jekyll serve
+
