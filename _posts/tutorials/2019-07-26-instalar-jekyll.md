@@ -1,4 +1,9 @@
-# Instalar Jekyll en Ubuntu 16.04 WSL (Windows Subsystem for Linux)
+---
+layout: post
+title:  "Instalar Jekyll en Ubuntu 16.04 WSL (Windows Subsystem for Linux)"
+date:   2019-07-26 18:00:00 -0500
+categories: blog
+---
 
 Estoy básicamente siguiendo los pasos de esta [maravillosa playlist](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB).
 

@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Crear un blog con Jekyll"
-date:   2019-07-26 18:00:00 -0500
-categories: jekyll update
+title:  "Crear un blog con Jekyll en Ubuntu 16.04 WSL (Windows Subsystem for Linux) y publicarlo en Github Pages"
+date:   2019-07-26 19:00:00 -0500
+categories: blog
 ---
-# Crear un blog con Jekyll en Ubuntu 16.04 WSL (Windows Subsystem for Linux) y publicarlo en Github Pages
 
 Revisar que Jekyll ya este [instalado]().
 
