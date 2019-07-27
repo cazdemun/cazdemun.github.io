@@ -3,7 +3,7 @@ layout: "page"
 title: "Donate"
 ---
 
-Apoya a la causa, causa
+Apoya a la causa, causa, bateria
 
 Bitcoin: 
 
