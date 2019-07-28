@@ -1,7 +1,7 @@
 ---
 layout: "page"
 title: "Donate"
-permalink: "/donate"
+permalink: "/donate/"
 ---
 
 Si te sirvió alguna guía o información, ¡deja un sencillo!
